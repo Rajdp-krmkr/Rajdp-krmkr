@@ -44,5 +44,8 @@
 ### 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=Rajdp-krmkr&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
+### 😭 help! Snake is eating my contributions
+![Snake animation](https://github.com/Rajdp-krmkr/Rajdp-krmkr/blob/output/github-contribution-grid-snake-dark.svg)
+
 ###
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
