@@ -1,10 +1,10 @@
-<h2 align="left">Hi 👋! Myself Rajdeep Karmakar, a "Lyadhkhor developer😴"</h2>
+### <h2 align="left">Hi 👋! Myself Rajdeep Karmakar, a "ল্যাদখোর developer😴"</h2>
 
 [![](https://visitcount.itsvg.in/api?id=Rajdp-krmkr&icon=4&color=6)](https://visitcount.itsvg.in)
 
 ###
 
-<img align="right" height="200" src="https://i.gifer.com/3AyY.gif"  />
+<img align="right" height="250" src="https://i.gifer.com/3AyY.gif"  />
 
 ### 💻 Tech Stack:
 
